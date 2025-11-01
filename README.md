@@ -1,7 +1,7 @@
 <h1 align="center">🤖 TuZhi Utility</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/5VRWmXb.png" alt="TuZhi Utility Logo" width="120px"><br><br>
+  <img src="https://cdn.discordapp.com/attachments/1432379942447878288/1434071850517794938/standard_2.gif" alt="TuZhi Utility Logo" width="120px"><br><br>
   <b>A Powerful All-in-One Discord Bot</b><br>
   <i>Automods • Fun • Moderation • Tickets • Giveaways • Utilities • AntiNuke</i><br><br>
   <a href="https://discord.gg/t8DHmYvX6Q"><img src="https://img.shields.io/badge/Support%20Server-Join%20Now-5865F2?logo=discord&logoColor=white"></a>
