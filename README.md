@@ -6,7 +6,7 @@
   <i>Automods • Fun • Moderation • Tickets • Giveaways • Utilities • AntiNuke</i><br><br>
   <a href="https://discord.gg/t8DHmYvX6Q"><img src="https://img.shields.io/badge/Support%20Server-Join%20Now-5865F2?logo=discord&logoColor=white"></a>
   <a href="https://tuzhiutility-bot.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Visit-Website-orange"></a>
-  <a href="https://tuzhi-utility-bot.blogspot.com/2025/11/tuzhi-utility-privacy-policy-google.html?m=1"><img src="https://img.shields.io/badge/Privacy%20Policy-Read-blue"></a>
+  <a href="https://tuzhiutility-bot.vercel.app/privacy.html"><img src="https://img.shields.io/badge/Privacy%20Policy-Read-blue"></a>
 </p>
 
 ---
